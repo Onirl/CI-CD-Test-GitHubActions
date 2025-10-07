@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Print("Hello, GitHub Actions")
+	fmt.Print("Hi!!!")
 }
